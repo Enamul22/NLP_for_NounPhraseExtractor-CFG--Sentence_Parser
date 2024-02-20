@@ -11,9 +11,13 @@ The English Noun Phrase Parser is a natural language processing tool that parses
 - Utilize context-free grammar rules for English sentence parsing.
 - Simple and user-friendly GUI to test and demonstrate the parser's capabilities.
 
-# N.B: This is just a base model for noun pharse parser covered only few sentences. If you want to parse any sentence you can modify the terminal as per your need. 
+# N.B: This is just a base model for noun phrase parser covered only few sentences. If you want to parse any sentence you can modify the terminal as per your need in parser.py file. 
 
 ## Technologies
 - Python
 - NLTK library
 - Tkinter for GUI
+
+# Usage
+- Clone my repository
+- run gui.py or parser.py
